@@ -29,7 +29,10 @@ To answer the question above (Were NBA players more valuable in the 80's-00's th
 
 I looped through my winshares dataFrame and ran if statements based on the third digit in the year (19**7**0). For this analysis 1979-1980 would be considered the 70's and 1989-1990 would be considered the 80 (see DecadeLoops).
 
-Here are the results: 
+**Here are the results:**
+
+
+
 
 
 
