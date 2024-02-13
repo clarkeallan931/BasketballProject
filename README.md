@@ -88,14 +88,23 @@ To see if players played more possessions now despite playing fewer minutes, I m
 
 You can see that the overall possessions per game are close to the game despite 4 few minutes. That means that stars have less time to help their teams win games, resulting in few win shares. If teams want to win as many games as they did in the past, other players have to step up.
 
-I will highlight this by finding the standard deviation and variance for two teams with a similar win total, but in different decades. 
+I will highlight this by finding the  variance for five teams with a similar win total, but in different decades. 
 
-The 4 teams I chose:
+The five teams I chose:
 - 1970-1971 Bucks (66 wins)
 - 1985-1986 Celtics (67 Wins)
 - 1999-2000 Lakers (67 wins)
 - 2013 Heat (66 wins)
 - 2018 Rockets (65 wins)
+
+Why did I choose these five teams?
+
+- They won a similar amount of games in the regular season (65-67).
+- They all had an MVP-level player in their prime.
+
+
+
+
 
 
 
