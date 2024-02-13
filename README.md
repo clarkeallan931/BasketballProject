@@ -66,6 +66,19 @@ This table highlights the average minutes(MPG), points(PPG), shots made(FGM), sh
 
 It seems like players playing less is a reason why win-share totals are lower.
 
+But why would players play fewer minutes when they are better/more efficient? One factor could be the amount of possessions per minute. 
+
+**Here is the definition of a possession**: 
+
+A team is in possession when a player is holding, dribbling, or passing the ball. Team
+possession ends when the defensive team gains possession or the ball hits the rim of the
+offensive team.
+
+Each time a possession ends, players have to run back down the court. Meaning that the more possessions per minute, the more wear and team per minute.
+
+
+
+
 Win-shares measure how many wins ONE player contributes to a team. Is it possible that one individual is less important to team success since players have improved as a whole? 
 
 To get an answer, I want to find the standard deviation and variance for two teams with a similar win total, but in different decades. 
