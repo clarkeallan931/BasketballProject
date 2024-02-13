@@ -57,6 +57,28 @@ https://github.com/clarkeallan931/BasketballProject/blob/main/TopScorersIn2001vs
 ![summarystats](https://github.com/clarkeallan931/BasketballProject/blob/main/TopScorersIn2001vs2023.png)
 
 
+This table highlights the average minutes(MPG), points(PPG), shots made(FGM), shots taken(FGA), shot efficiency(FG Percentage), three-pointers made, point points attempted, and three point efficiency. These averages are from the top 25 scorers in the NBA in 2001 vs. 2023.
+
+**Data that stood out:**
+
+- Players have gotten much better. They are shooting the ball at a higher percentage, taking longer shots, and scoring more.
+- Minutes have gone down a lot (4 MPM).
+
+It seems like players playing less is a reason why win-share totals are lower.
+
+Win-shares measure how many wins ONE player contributes to a team. Is it possible that one individual is less important to team success since players have improved as a whole? 
+
+To get an answer, I want to find the standard deviation and variance for two teams with a similar win total, but in different decades. 
+
+The 4 teams I chose:
+- 1971 Bucks (66 wins)
+- 2000 Lakers (67 wins)
+- 2013 Heat (66 wins)
+- 2018 Rockets (65 wins)
+
+
+
+
 
 
 
