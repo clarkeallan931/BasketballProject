@@ -86,9 +86,9 @@ To see if players played more possessions now despite playing fewer minutes, I m
 
 ![posspergame](https://github.com/clarkeallan931/BasketballProject/blob/main/PossPerGame.png#:~:text=DecadeLoops.png-,PossPerGame,-.png)
 
-Win-shares measure how many wins ONE player contributes to a team. Is it possible that one individual is less important to team success since players have improved as a whole? 
+You can see that the overall possessions per game are close to the game despite 4 few minutes. That means that stars have less time to help their teams win games, resulting in few win shares. If teams want to win as many games as they did in the past, other players have to step up.
 
-To get an answer, I want to find the standard deviation and variance for two teams with a similar win total, but in different decades. 
+I will highlight this by finding the standard deviation and variance for two teams with a similar win total, but in different decades. 
 
 The 4 teams I chose:
 - 1971 Bucks (66 wins)
