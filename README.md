@@ -51,10 +51,10 @@ To conduct this analysis I needed to find the minutes per game for the top 25 sc
 
 I created to summary stats table to see how the production and playing time have changed since 2001.
 
-**Here are the results**
+**Here are the results:**
 
-
-
+https://github.com/clarkeallan931/BasketballProject/blob/main/TopScorersIn2001vs2023.png
+![summarystats](https://github.com/clarkeallan931/BasketballProject/blob/main/TopScorersIn2001vs2023.png)
 
 
 
