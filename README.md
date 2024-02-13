@@ -31,7 +31,9 @@ I looped through my winshares dataFrame and ran if statements based on the third
 
 **Here are the results:**
 
-![GitHub Logo](https://github.com/your-username/your-repository/blob/main/image.png)
+![Top96PieChart](https://github.com/clarkeallan931/BasketballProject/blob/main/WSPieChart.png)
+
+
 
 
 
