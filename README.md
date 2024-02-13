@@ -33,12 +33,11 @@ I looped through my winshares dataFrame and ran if statements based on the third
 
 ![Top96PieChart](https://github.com/clarkeallan931/BasketballProject/blob/main/WSPieChart.png)
 
+Data that stood out:
 
-
-
-
-
-
+- There were zero players in the 2020s that made it into the top 96 win-share total. (Nikola Jokic was 99th in 2020-2021)
+- The amount of high-level win share season started declining drastically after 2010.
+- The '60s and '70s were the decades with the highest percentage of top win share seasons. 
 
 
 
