@@ -84,7 +84,7 @@ What I did here was take the average possessions per game and divide it by the a
 
 To see if players played more possessions now despite playing fewer minutes, I multiplied the average MPG for the top 25 leading scores in 2001 and 2023 by each decade's possession per minute.
 
-![posspermin](https://github.com/clarkeallan931/BasketballProject/blob/main/PossPerMinue.png#:~:text=PossPerGame.png-,PossPerMinue,-.png)
+![posspergame](https://github.com/clarkeallan931/BasketballProject/blob/main/PossPerGame.png#:~:text=DecadeLoops.png-,PossPerGame,-.png)
 
 Win-shares measure how many wins ONE player contributes to a team. Is it possible that one individual is less important to team success since players have improved as a whole? 
 
