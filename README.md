@@ -27,7 +27,8 @@ Once I decided on the final number, I created a DataFrame and added my four data
 
 To answer the question above (Were NBA players more valuable in the 80's-00's than today?), I needed to group the top 96 win share seasons by decade. 
 
-I looped through my winshares dataFrame and ran if statements based on the third digit in the year. 19**7**0
+I looped through my winshares dataFrame and ran if statements based on the third digit in the year (19**7**0). For this analysis 1979-1980 would be considered the 70's and 1989-1990 would be considered the 80.
+
 
 
 
