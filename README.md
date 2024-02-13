@@ -27,7 +27,7 @@ Once I decided on the final number, I created a DataFrame and added my four data
 
 To answer the question above (Were NBA players more valuable in the 80's-00's than today?), I needed to group the top 96 win share seasons by decade. 
 
-
+I looped through my winshares dataFrame and ran if statements based on the third digit in the year. 19__7__0
 
 
 
