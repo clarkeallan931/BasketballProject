@@ -31,7 +31,7 @@ I looped through my winshares dataFrame and ran if statements based on the third
 
 **Here are the results:**
 
-https://github.com/clarkeallan931/BasketballProject/blob/main/WSPieChart.png?raw=true
+
 
 
 
