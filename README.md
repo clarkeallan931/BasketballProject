@@ -91,8 +91,9 @@ You can see that the overall possessions per game are close to the game despite 
 I will highlight this by finding the standard deviation and variance for two teams with a similar win total, but in different decades. 
 
 The 4 teams I chose:
-- 1971 Bucks (66 wins)
-- 2000 Lakers (67 wins)
+- 1970-1971 Bucks (66 wins)
+- 1985-1986 Celtics (67 Wins)
+- 1999-2000 Lakers (67 wins)
 - 2013 Heat (66 wins)
 - 2018 Rockets (65 wins)
 
