@@ -102,10 +102,13 @@ Why did I choose these five teams?
 - They won a similar amount of games in the regular season (65-67).
 - They all had an MVP-level player in their prime.
 
+**Final Results**
+
+
 ![varinWS](https://github.com/clarkeallan931/BasketballProject/blob/main/VarianceInWS.png#:~:text=TopScorersIn2001vs2023.png-,VarianceInWS,-.png)
 
 
-
+Since the variance in win shares has declined dramatically, more players are having to contribute to win games. This is a direct result of the increase in possessions per minute and starts playing less minutes. 
 
 
 
